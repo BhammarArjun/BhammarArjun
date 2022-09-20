@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @BhammarArjun
 - 👀 I’m interested in Machine Learning / Data Analytics / Deep Learning  
 - 🌱 I’m currently learning at Scaler DSML 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me p21mf001@med.svnit.ac.in
+- 📫 How to reach me:
+
+Linkedin: https://www.linkedin.com/in/arjun-bhammar-27a351226/
+email: himynameisarjunbhammar@gmail.com
+
 
 <!---
 BhammarArjun/BhammarArjun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
