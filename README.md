@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning at Scaler DSML 
 - 📫 How to reach me:
 
-Linkedin: https://www.linkedin.com/in/arjun-bhammar-27a351226/
-email: himynameisarjunbhammar@gmail.com
+  - Linkedin: https://www.linkedin.com/in/arjun-bhammar-27a351226/
+
+  - email: himynameisarjunbhammar@gmail.com
 
 
 <!---
