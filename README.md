@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BhammarArjun
-- 👀 I’m interested in Machine Learning / Data Analytics / Deep Learning  
-- 🌱 I’m currently learning from HuggingFace NLP Course and from scaler academy 
-- 📫 How to reach me:
+- 👀 I’m interested in Generative AI
+- 📫 Contact me:
 
   - Linkedin: https://www.linkedin.com/in/arjun-bhammar-27a351226/
 
